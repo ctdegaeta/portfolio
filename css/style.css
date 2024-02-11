@@ -8,6 +8,12 @@ body, html {
 	height: 100% !important;
 	min-height: 100vh;
 
+	display: flex;
+	flex-direction: column;
+	flex-wrap:nowrap;
+	justify-content: flex-start;
+	akign-items: flex-start;
+
 }
 
 h1 {
