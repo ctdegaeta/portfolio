@@ -199,6 +199,7 @@ header .intro-text {
 }
 /* About Section */
 #about {
+	width: 100%;
 	padding: 75px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
 	background: rgb(134,143,140); /* Old browsers */
@@ -222,7 +223,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bac4c0', end
 }
 /* Portfolio Section */
 #portfolio {
-
+width: 100%;
 	padding: 0px 0;
 
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,71777d+0,414a52+100 */
@@ -370,6 +371,7 @@ ol.type li a:hover {
 padding: 60px 60px;}
 /* Contact Section */
 #contact {
+	width: 100%;
 	padding: 100px 0 50px 0;
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,7fdce6+0,54d0dd+100 */
 	background: rgb(0,0,0); /* Old browsers */
