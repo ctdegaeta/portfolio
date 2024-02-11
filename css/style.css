@@ -8,12 +8,6 @@ body, html {
 	height: 100% !important;
 	min-height: 100vh;
 
-	display: flex;
-	flex-direction: column;
-	flex-wrap:nowrap;
-	justify-content: flex-start;
-	akign-items: flex-start;
-
 }
 
 h1 {
@@ -229,7 +223,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#bac4c0', end
 }
 /* Portfolio Section */
 #portfolio {
+
+	display: flex;
+	flex-direction: column;
+	flex-wrap:nowrap;
+	justify-content: flex-start;
+	akign-items: flex-start;
 	padding: 0px 0;
+	
 	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#54d0dd+0,54d0dd+0,54d0dd+0,71777d+0,414a52+100 */
 	background: rgb(168,206,200); /* Old browsers */
 	background: -moz-linear-gradient(top, rgba(134,143,140,1) 0%, rgba(134,143,140,1) 0%, rgba(134,143,140,1) 0%, rgba(134,143,140,1) 0%, rgba(134,143,140,1) 100%); /* FF3.6-15 */
